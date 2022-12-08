@@ -1,2 +1,2 @@
 ## Projektdokumentation Ticketsystem
-<p> Autoren: Benedikt Anrig, Manuel Santoro & 
+Autoren: Benedikt Anrig, Manuel Santoro & Fabio Bilger
