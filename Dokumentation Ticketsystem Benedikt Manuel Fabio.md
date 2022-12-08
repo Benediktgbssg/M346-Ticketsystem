@@ -1,1 +1,2 @@
-<h1> Projektdokumentation Ticketsystem </h1>
+## Projektdokumentation Ticketsystem
+<p> Autoren: Benedikt Anrig, Manuel Santoro & 
