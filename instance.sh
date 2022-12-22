@@ -1,6 +1,7 @@
 #!/bin/bash
 schluessel=aws-benedikt-cli.pem
-echo $schluessel
+#test von variabel
+#echo $schluessel
 
 #Gruppe ticketsystem-group erstellen
 aws ec2 create-security-group --group-name ticketsystem-group --description "EC2-Webserver-und-Ticketsystem-group"
