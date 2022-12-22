@@ -1,12 +1,11 @@
 ## Projektdokumentation Ticketsystem
 **Autoren:** Benedikt Anrig, Manuel Santoro & Fabio Bilger
 
-
-### Reflexion Fabio Bilger
+### <u>Reflexion Fabio Bilger</u>
 Irgendein Text
 
-### Reflexion Manuel Santoro
+### <u>Reflexion Manuel Santoro</u>
 Irgendein Text
 
-### Reflexion Benedikt Anrig
+### <u>Reflexion Benedikt Anrig</u>
 Irgendein Text
