@@ -4,3 +4,9 @@ sudo apt install apache2 libapache2-mod-passenger
 sudo systemctl enable --now apache2
 sudo apt install ruby-full
 sudo useradd -r -m -d /opt/redmine -s /usr/bin/bash redmine
+
+#install redmine (Ticketsystem)
+sudo apt-install curl
+curl -s pfad | sudo -u redmine tar xz -C /opt/redmine/ --strip-components=1
+wget https://www.redmine.org/releases/redmine-5.0.0.tar.gz
+tar -xvf redmine-5.0.0.tar.gz
