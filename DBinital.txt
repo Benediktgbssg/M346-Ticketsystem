@@ -1,6 +1,5 @@
-sudo apt install mariadb-server
-y
-sudo systemctl enable --now mariadb
-mysql_secure_installation
-##HIER muss der Passwort Part hin##
-y
+Echo "Gebe dein Passwort ein:"
+read pw
+sleep 3
+sudo mysql_secure_installation
+$pw
