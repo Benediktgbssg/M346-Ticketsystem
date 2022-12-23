@@ -29,7 +29,16 @@ Installieren Sie ein Ticketsystem ihrer Wahl (z.B. osTicket, zoho, otrs, etc.). 
 
 <a name="aufgabenverteilung"></a>
 ### 3. Aufgabenverteilung
-"Irgend einen Text"
+
+Wir haben die Aufgaben jeweils Schritt für Schritt unter uns aufgeteilt.
+**Manuel Santoro** war zuständig für das Initial-File welches den Webserver installiert.
+**Fabio Bilger** war grössten Teils zuständig für das Initial-File, welches die Datenbank installiert.
+**Benedikt Andrig** war für das Hauptskript zuständig, welches zwei AWS-Instanzen erstellt und diese jeweils mit den beiden Initial-Files installiert/konfiguriert.
+Um die Dokumentation hat sich grössten Teils Fabio gekümmert, da Benedikt im Laufe der Arbeit das Datenbank-Skript weitergeschrieben hat.
+
+Wir haben uns bei Fragen und Problemen selbstverständlich immer gegenseitig unterstützt, jenachdem wer eine Atwort oder eine Lösung bereit hatte.
+Im Endeffekt haben alle von uns in allen Bereichen in irgend einer Form etwas zum Endergebnis beigetragen.
+
 
 <a name="tests"></a>
 ### 4. Tests
