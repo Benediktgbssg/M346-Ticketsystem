@@ -57,6 +57,7 @@ Hier sind alle Ports aufgelistet, welche geöffnet werden müssen, damit beide I
 
 <a name="tests"></a>
 ### 5. Tests
+#### Test von Ticketsystem
 Leider funktionierte das Installieren von Redmine am Anfang nicht ich hatte folgenden Code verwendet:
 wget https://www.redmine.org/releases/redmine-5.0.0.tar.gz | tar xz -C /opt/Redline/ --strip-components=1 redmine-5.0.0.tar.gz
 
@@ -70,7 +71,7 @@ sudo apt install Redline redmine-mysql
 
 ![grafik](https://user-images.githubusercontent.com/114143132/209410234-430bac45-cc5b-47e0-a2a4-c5bd7ff6283a.png)
 
-### Instanz Test
+#### Test von Instanz
 
  <img width="911" alt="Test-inistial-fehler1" src="https://user-images.githubusercontent.com/114584745/209411288-b961aa64-66dc-4f1c-a6c4-6d3def01f91c.png">
 
