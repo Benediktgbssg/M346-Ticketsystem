@@ -70,6 +70,12 @@ sudo apt install Redline redmine-mysql
 
 ![grafik](https://user-images.githubusercontent.com/114143132/209410234-430bac45-cc5b-47e0-a2a4-c5bd7ff6283a.png)
 
+### Instanz Test
+
+ <img width="911" alt="Test-inistial-fehler1" src="https://user-images.githubusercontent.com/114584745/209411288-b961aa64-66dc-4f1c-a6c4-6d3def01f91c.png">
+
+Oben in diesem Ausschnitt sieht man, wie die Sicherheit gruppe Ticketsystemgroup erstellt wird. Da aber dies schon einmal geschehen war, gibt es ein Fehler aus. Das Gleiche ist mit dem Öffnen der Ports. In der 2 Letzten Zeile ist der Fehler, dass ich den Namen des Schlüssels mit .pem geschrieben habe, was man nicht darf. In der letzten Zeile ist der Fehler, das ich noch nicht das Datenbankinitial kopiert habe.
+
 
 <a name="reflexion"></a>
 ### 6. Reflexionen
@@ -85,7 +91,7 @@ Trotzdem muss ich sagen, dass die Zusammenarbeit im Team ansich gut war und ich 
 Ich empfand die Zeit, die wir für dieses Projekt hatten, extrem kurz. Außerdem finde ich das Umsetzen des Projektes auch sehr kompliziert, die Aufgaben waren nur spärlich beschrieben. Außerdem hatten wir auch gleichzeitig noch 2 andere Projekte, die wir genau zur selben Zeit abgeben mussten. Ansonsten finde ich das Projekt extrem spannend. Das Thema Cloud interessiert mich auch sehr und ist die Zukunft. Ausserdem arbeite ich auch gerne mit Linux respektive Ubuntu. GitHub finde ich auch sehr spannend, jedoch war es etwas schwer, alles per GitHub zu dokumentieren, da es etwas komplett neus für mich ist. Jedoch finde ich GitHub gut und übersichtlich. Die Zusammenarbeit im Teams finde ich sehr angenehm. Am Schluss kommen wir etwas in den Zeitstress, da wir viele Fehler hatten, die uns enorm ausgebremst hatten.
 
 #### Reflexion Benedikt Anrig
-"Irgend einen Text"
+Das Projekt ist an sich interessant. Aber weil es für mich Neuland war, war es für mich umso schwieriger zu verstehen, wie man was machen muss. Als ich dann schon am Projekt gearbeitet habe, wollte ich am liebsten zu cloudinnit wechseln, habe es dann aber doch nicht gemacht. Das Thema wurde für mich immer verwirrender, desto weiter wir gingen. Jetzt zum bsp. bin ich mir nicht mehr ganz sicher, ob unsere Instanz Datei cloudinnit ist (ich glaube aber zu 80 % nicht). Etwas, was ich sicher besser machen würde, ist den Überblick über das Thema behalten oder für mich aufschreiben. Das Zeitmanagement war bei uns vor allem in der Letzten tagen. Der Grund ist ganz einfach: Ich habe das Projekt unterschätzt, weil ich von allen Leuten um mich herum gehört habe, das es nicht so schwierig sei, bis dann die Letzten tage anbrachen.
 
 
 
