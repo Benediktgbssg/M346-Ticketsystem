@@ -9,9 +9,13 @@ Danach kann man das Script instance.sh ausführen.
 
 <br>
 1. Das Skript *AllesInstallierenAufEinemServer.sh* wird ausgeführt, gib das Admin Passwort **"Riethuesli>12345"** um das Skript zu starten<br>
+
 2. Bei dem sudo apt-get upgrade Befehl muss man noch einamal auf **"Y"** um das Upgrade zu starten.<br>
+
 3. Jetzt muss man nochmals das Passwort eingeben.<br>
+
 4. Gib jetzt nochmals **"Y"** ein
+
 5. Gib nun folgenden SQL befehle in MySql ein:<br>
 
    *CREATE DATABASE redmine CHARACTER SET utf8mb4;*<br>
