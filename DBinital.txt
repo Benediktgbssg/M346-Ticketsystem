@@ -1,5 +1,0 @@
-Echo "Gebe dein Passwort ein:"
-read pw
-sleep 3
-sudo mysql_secure_installation
-$pw
