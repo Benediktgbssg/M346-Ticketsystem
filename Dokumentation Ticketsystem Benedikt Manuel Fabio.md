@@ -15,19 +15,22 @@ Wir haben den Auftrag erhalten ein Skript zu erstellen, welches ein Ticketsystem
 
 <a name="projektziel"></a>
 ### 2. Projektziel
+"Irgend einen Text"
 
 <a name="aufgabenverteilung"></a>
 ### 3. Aufgabenverteilung
+"Irgend einen Text"
 
 <a name="tests"></a>
 ### 4. Tests
+"Irgend einen Text"
 
 <a name="reflexion"></a>
 ### Reflexion Fabio Bilger
-Irgendein Text
+"Irgend einen Text"
 
 ### Reflexion Manuel Santoro
-Irgendein Text
+"Irgend einen Text"
 
 ### Reflexion Benedikt Anrig
-Irgendein Text
+"Irgend einen Text"
