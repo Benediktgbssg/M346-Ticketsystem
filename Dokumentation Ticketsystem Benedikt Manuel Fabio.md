@@ -56,3 +56,9 @@ Im Endeffekt haben alle von uns in allen Bereichen in irgend einer Form etwas zu
 
 ### Reflexion Benedikt Anrig
 "Irgend einen Text"
+
+
+
+### Quellenverzeichnis
+Wir haben uns folgende Anleitung zu Hilfe genommen:
+<a href="https://www.veuhoff.net/redmine-ticketsystem-installation-und-konfiguration-fuer-linux-ubuntu-22-04/"> Redmine Ticketsystem </a>
