@@ -15,4 +15,20 @@ EXIT;
 Drücke nach dem eingeben der Komandos nun mehrmals auf die Enter Taste sodass auch alles augeführt wird
 7. Drücke nochmals die "Y" Taste zur bestätigung der Installation
 8. Drücke die Einter Taste für die Installation von Redmine, gib dann zwei mal das PW: xyz888 ein.
-9. Kopier nun diesen inhalt in die geöffnete Datei, vergiss nicht per ctrl+s 
+9. Kopier nun diesen inhalt in die geöffnete Datei, vergiss nicht per ctrl+s zu speichern
+<IfModule mod_passenger.c>
+  PassengerDefaultUser www-data
+  PassengerRoot /usr/lib/ruby/vendor_ruby/phusion_passenger/locations.ini
+  PassengerDefaultRuby /usr/bin/ruby
+</IfModule>
+10. Kopier nun diesen inhalt in die geöffnete Datei, vergiss nicht per ctrl+ zu speichern. WICHTIG: DIE IP-ADRESSE IST DIE ADRESSE DER INSTANZ AUF WELCHER REDMINE LÄUFT.
+ DocumentRoot /var/www/html/redmine
+ ServerName 192.168.210.16
+
+    RailsBaseURI /redmine
+    PassengerResolveSymlinksInDocumentRoot on
+
+  ErrorLog ${APACHE_LOG_DIR}/error.log
+CustomLog ${APACHE_LOG_DIR}/access.log combined
+11. Redmine wir jetzt im browser geöffnet.
+
