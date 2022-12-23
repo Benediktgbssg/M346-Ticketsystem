@@ -7,6 +7,7 @@ sudo useradd -r -m -d /opt/redmine -s /usr/bin/bash redmine
 
 #install redmine (Ticketsystem)
 sudo apt-install curl
-curl -s pfad | sudo -u redmine tar xz -C /opt/redmine/ --strip-components=1
+curl -s ttps://www.redmine.org/releases/redmine-5.0.0.tar.gz | sudo -u redmine tar xz -C /opt/redmine/ --strip-components=1
 wget https://www.redmine.org/releases/redmine-5.0.0.tar.gz
 tar -xvf redmine-5.0.0.tar.gz
+wget https://www.redmine.org/releases/redmine-5.0.0.tar.gz | tar xz -C /opt/redmine/ --strip-components=1 redmine-5.0.0.tar.gz
