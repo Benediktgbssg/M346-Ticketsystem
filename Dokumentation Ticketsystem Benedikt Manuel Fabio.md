@@ -11,7 +11,11 @@
 
 <a name="projektauftrag"></a>
 ### 1. Projektauftrag
-Wir haben den Auftrag erhalten ein Skript zu erstellen, welches ein Ticketsystem automatisch installiert. Wir konnten zwischen verschiedenen Ticketsystemen eines aussuchen und jenes
+Wir haben den Auftrag erhalten ein Skript zu erstellen, welches ein Ticketsystem automatisch installiert. Wir konnten zwischen verschiedenen Ticketsystemen eines aussuchen. 
+
+**Folgend der offizielle Projektauftrag:**
+
+Installieren Sie ein Ticketsystem ihrer Wahl (z.B. osTicket, zoho, otrs, etc.). Teilen Sie Sie Ihre Wahl der Lehrperson mit.
 
 <a name="projektziel"></a>
 ### 2. Projektziel
