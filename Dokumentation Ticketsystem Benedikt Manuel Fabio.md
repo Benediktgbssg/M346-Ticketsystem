@@ -1,6 +1,9 @@
 ## Projektdokumentation Ticketsystem
 **Autoren:** Benedikt Anrig, Manuel Santoro & Fabio Bilger
 
+<img alt="AWS-Logo" src="https://user-images.githubusercontent.com/73245336/209247010-14a3b368-32fa-40ee-bd46-9c6322aff8a0.png" style="height:50px"></img>
+
+
 ### Inhaltsverzeichnis
 1. [Projektauftrag](#projektauftrag)
 2. [Projektziel](#projektziel)
