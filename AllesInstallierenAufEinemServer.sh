@@ -1,7 +1,6 @@
 #UpuntuUpdate
 sudo apt update
 sudo apt upgrade
-sudo reboot
 
 #MariaDB Server Installation
 sudo apt install mariadb-server
@@ -41,9 +40,9 @@ sudo ln -s /usr/share/redmine/public /var/www/html/redmine
 #Erstellt eine VirtualHost-Datei für Redmine und konfigurieren Sie sie auf Ihren Domainnamen oder Server.
 
 sudo nano /etc/apache2/sites-available/redmine.conf
- #ServerAdmin REDMINE_PASSSWORD
+ #ServerAdmin xyz888
  #DocumentRoot /var/www/html/redmine
- #ServerName SERVER_IP_ADDRESS
+ #ServerName 192.168.210.16
   
     #RailsBaseURI /redmine
     #PassengerResolveSymlinksInDocumentRoot on
@@ -58,3 +57,5 @@ sudo chown www-data:www-data /usr/share/redmine/Gemfile.lock
 #Aktiviert die Redmine Webseite wie in der Konfiguration.
 sudo a2ensite redmine.conf
 sudo systemctl restart apache2.service
+sudo systemctl status apache2.service
+
