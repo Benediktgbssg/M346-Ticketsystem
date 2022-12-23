@@ -15,11 +15,6 @@ GRANT ALL PRIVILEGES ON redmine.* TO 'redmine'@'localhost' IDENTIFIED BY 'REDMIN
 FLUSH PRIVILEGES;
 EXIT;
 
-#Benutzer prüfen durch Anmeldung
-mysql -u redmine -p
-SHOW DATABASES;
-QUIT
-
 #Apache Web-Server insatllieren
 sudo apt install apache2 libapache2-mod-passenger
 
