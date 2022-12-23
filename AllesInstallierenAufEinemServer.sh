@@ -59,3 +59,6 @@ sudo a2ensite redmine.conf
 sudo systemctl restart apache2.service
 sudo systemctl status apache2.service
 
+xdg-open http://192.168.210.16/redmine
+
+
