@@ -57,12 +57,19 @@ Hier sind alle Ports aufgelistet, welche geöffnet werden müssen, damit beide I
 
 <a name="tests"></a>
 ### 5. Tests
-Leider funktionierte das installieren von redmine am anfang nicht ich hatte folgenden Code verwendet:
-wget https://www.redmine.org/releases/redmine-5.0.0.tar.gz | tar xz -C /opt/redmine/ --strip-components=1 redmine-5.0.0.tar.gz
+Leider funktionierte das Installieren von Redmine am Anfang nicht ich hatte folgenden Code verwendet:
+wget https://www.redmine.org/releases/redmine-5.0.0.tar.gz | tar xz -C /opt/Redline/ --strip-components=1 redmine-5.0.0.tar.gz
+
+
 ![grafik](https://user-images.githubusercontent.com/114143132/209410073-940c46be-ff34-464c-ae74-d0cb88f08ea2.png)
-Jedoch funktionierte das Entzippen nie, deshalb mussten wir dan eine andere Art von installation verwenden, nähmlich mussten wir die Datenbank auch noch auf dem selben Server installiern. Dies funktionierte dann auch alles, hier ist der Befehl:
-sudo apt install redmine redmine-mysql
+
+
+Jedoch funktionierte das Entzippen nie, deshalb mussten wir dann eine andere Art von Installation verwenden, nämlich mussten wir die Datenbank auch noch auf demselben Server installiert. Dies funktionierte dann auch alles, hier ist der Befehl:
+sudo apt install Redline redmine-mysql
+
+
 ![grafik](https://user-images.githubusercontent.com/114143132/209410234-430bac45-cc5b-47e0-a2a4-c5bd7ff6283a.png)
+
 
 <a name="reflexion"></a>
 ### 6. Reflexionen
@@ -75,10 +82,10 @@ Dass zu dem ansich schon Grossen Auftrag noch die Dokumentation auf Github dazu 
 Trotzdem muss ich sagen, dass die Zusammenarbeit im Team ansich gut war und ich einiges dazu gelernt habe.
 
 #### Reflexion Manuel Santoro
-"Irgend einen Text"
+Ich empfand die Zeit, die wir für dieses Projekt hatten, extrem kurz. Außerdem finde ich das Umsetzen des Projektes auch sehr kompliziert, die Aufgaben waren nur spärlich beschrieben. Außerdem hatten wir auch gleichzeitig noch 2 andere Projekte, die wir genau zur selben Zeit abgeben mussten. Ansonsten finde ich das Projekt extrem spannend. Das Thema Cloud interessiert mich auch sehr und ist die Zukunft. Ausserdem arbeite ich auch gerne mit Linux respektive Ubuntu. GitHub finde ich auch sehr spannend, jedoch war es etwas schwer, alles per GitHub zu dokumentieren, da es etwas komplett neus für mich ist. Jedoch finde ich GitHub gut und übersichtlich. Die Zusammenarbeit im Teams finde ich sehr angenehm. Am Schluss kommen wir etwas in den Zeitstress, da wir viele Fehler hatten, die uns enorm ausgebremst hatten.
 
 #### Reflexion Benedikt Anrig
-Das Projekt ist an sich interessant. Aber weil es für mich Neuland war, war es für mich umso schwieriger zu verstehen, wie man was machen muss. Als ich dann schon am Projekt gearbeitet habe, wollte ich am liebsten zu cloudinnit wechseln, habe es dann aber doch nicht gemacht. Das Thema wurde für mich immer verwirrender, desto weiter wir gingen. Jetzt zum bsp. bin ich mir nicht mehr ganz sicher, ob unsere Instanz Datei cloudinnit ist (ich glaube aber zu 80 % nicht). Etwas, was ich sicher besser machen würde, ist den Überblick über das Thema behalten oder für mich aufschreiben. Das Zeitmanagement war bei uns vor allem in der Letzten tagen. Der Grund ist ganz einfach: Ich habe das Projekt unterschätzt, weil ich von allen Leuten um mich herum gehört habe, das es nicht so schwierig sei, bis dann die Letzten tage anbrachen.
+"Irgend einen Text"
 
 
 
