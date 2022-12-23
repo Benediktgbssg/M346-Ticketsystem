@@ -2,8 +2,12 @@
 Projekt Modul 346 von Fabio, Manuel und Benedikt
 
 ### Anleitung Skript AllesInstallierenAufEinemServer
-<br>
+#### Instanz 
+Die instance.sh muss man zuerst noch bearbeiten in dem man die Variabel in der 2 Zeile bearbeitet. Mann dort den eigenen RSA Schlüssel dort angeben.
+Danach kann man das Script instance.sh ausführen.
 
+
+<br>
 1. Das Skript *AllesInstallierenAufEinemServer.sh* wird ausgeführt, gib das Admin Passwort **"Riethuesli>12345"** um das Skript zu starten
 2. Bei dem sudo apt-get upgrade befehl muss man noch einamal auf **"Y"** um das Upgrade zu starten.
 3. Jetzt muss man nochmals das Passwort eingeben.
