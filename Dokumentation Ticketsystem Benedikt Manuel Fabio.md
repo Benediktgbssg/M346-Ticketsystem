@@ -21,7 +21,7 @@ Wir haben den Auftrag erhalten ein Skript zu erstellen, welches ein Ticketsystem
 Installieren Sie ein Ticketsystem ihrer Wahl (z.B. osTicket, zoho, otrs, etc.). Teilen Sie Sie Ihre Wahl der Lehrperson mit.
 
 <a name="projektziel"></a>
-### 2. Projektziel
+### 2. Projektziel <img alt="Target-Symbol" src="https://raw.githubusercontent.com/Benediktgbssg/M346-Ticketsystem/d7b690230ed45a06e1f63af3ce6484c0ac905029/Bilder/target%20(1).svg"></img>
 
 1.	Ein Service soll in der Cloud funktionstüchtig aufgesetzt werden. Dieser Service und die Anforderungen dazu werden im nächsten Unterkapitel Aufgabenstellung 
    vorgestellt.
