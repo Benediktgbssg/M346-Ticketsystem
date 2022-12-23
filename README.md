@@ -26,14 +26,14 @@ Projekt Modul 346 von Fabio, Manuel und Benedikt
 
 10. Kopier nun diesen inhalt in die geöffnete Datei, vergiss nicht per ctrl+ zu speichern. **WICHTIG: DIE IP-ADRESSE IST DIE ADRESSE DER INSTANZ AUF WELCHER REDMINE LÄUFT.**
 
- DocumentRoot /var/www/html/redmine
-  ServerName 192.168.210.16
+    DocumentRoot /var/www/html/redmine
+    ServerName 192.168.210.16
 
     RailsBaseURI /redmine
     PassengerResolveSymlinksInDocumentRoot on
 
-  ErrorLog ${APACHE_LOG_DIR}/error.log
-  CustomLog ${APACHE_LOG_DIR}/access.log combined
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
 
 11. Redmine wir jetzt im browser geöffnet.
 
