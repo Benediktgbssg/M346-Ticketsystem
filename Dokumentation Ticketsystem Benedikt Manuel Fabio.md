@@ -72,13 +72,8 @@ Trotzdem muss ich sagen, dass die Zusammenarbeit im Team ansich gut war und ich 
 #### Reflexion Manuel Santoro
 "Irgend einen Text"
 
-<<<<<<< Updated upstream
-#### Reflexion Benedikt Anrig
-"Irgend einen Text"
-=======
 ### Reflexion Benedikt Anrig
 Das Projekt ist an sich interessant. Aber weil es für mich Neuland war, war es für mich umso schwieriger zu verstehen, wie man was machen muss. Als ich dann schon am Projekt gearbeitet habe, wollte ich am liebsten zu cloudinnit wechseln, habe es dann aber doch nicht gemacht. Das Thema wurde für mich immer verwirrender, desto weiter wir gingen. Jetzt zum bsp. bin ich mir nicht mehr ganz sicher, ob unsere Instanz Datei cloudinnit ist (ich glaube aber zu 80 % nicht). Etwas, was ich sicher besser machen würde, ist den Überblick über das Thema behalten oder für mich aufschreiben. Das Zeitmanagement war bei uns vor allem in der Letzten tagen. Der Grund ist ganz einfach: Ich habe das Projekt unterschätzt, weil ich von allen Leuten um mich herum gehört habe, das es nicht so schwierig sei, bis dann die Letzten tage anbrachen.
->>>>>>> Stashed changes
 
 
 
