@@ -52,7 +52,7 @@ Im Endeffekt haben alle von uns in allen Bereichen in irgend einer Form etwas zu
 Meines Erachtens war die Zeit, die wir für das Projekt bekommen haben wirklich viel zu kurz. Wir wurden ins kalte Wasser geworfen, haben keine Anleitung bekommen, mussten noch alles Mögliche über Github lernen und hatten von Bash auch nicht das Wissen, welches man für das Projekt gebraucht hätte.
 Klar hatten wir von einem Bash-Modul bereits die Basics, jedoch hat dieses Wissen keines Wegs ausgereicht ein solches Skript in der vorgegebenen Zeit geschweige nur in der Unterrichtszeit zu schreiben. 
 Ich finde, man hätte den Auftrag so gestalten können, dass man die Dokumentation nicht auf Github sonder in Word hätte verfassen können und dass das System nur auf einer Instanz hätte laufen müssen. 
-Dass zu dem ansich schon Grossen Auftrag noch die Dokumentation auf Github dazu kam, hat meiner Meinung nach den Rahmen gesprengt und ich finde das ist von Auszubildenden im zweiten Lehrjahr wirklich zu viel verlangt. Das Projekt hätte auch als IPA Aufgabe durchgehen können.
+Dass zu dem ansich schon Grossen Auftrag noch die Dokumentation auf Github dazu kam, hat meiner Meinung nach den Rahmen gesprengt und ich finde das ist von Auszubildenden im zweiten Lehrjahr etwas zu viel verlangt.
 Trotzdem muss ich sagen, dass die Zusammenarbeit im Team ansich gut war und ich einiges dazu gelernt habe.
 
 ### Reflexion Manuel Santoro
