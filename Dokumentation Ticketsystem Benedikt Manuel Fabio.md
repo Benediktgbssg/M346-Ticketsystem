@@ -8,8 +8,9 @@
 1. [Projektauftrag](#projektauftrag)
 2. [Projektziel](#projektziel)
 3. [Aufgabenverteilung](#aufgabenverteilung)
-4. [Tests](#tests)
-5. [Reflexion](#reflexion)
+4. [Ports](#ports)
+5. [Tests](#tests)
+6. [Reflexion](#reflexion)
  
 
 <a name="projektauftrag"></a>
@@ -42,23 +43,28 @@ Um die Dokumentation hat sich grössten Teils Fabio gekümmert, da Benedikt im L
 Wir haben uns bei Fragen und Problemen selbstverständlich immer gegenseitig unterstützt, jenachdem wer eine Atwort oder eine Lösung bereit hatte.
 Im Endeffekt haben alle von uns in allen Bereichen in irgend einer Form etwas zum Endergebnis beigetragen.
 
+<a name="ports"></a>
+### 4. Ports
+Hier sind alle Ports aufgelistet, welche geöffnet werden müssen, damit beide Instanzen miteinander kommunizieren können:
 
 <a name="tests"></a>
-### 4. Tests
+### 5. Tests
 "Irgend einen Text"
 
 <a name="reflexion"></a>
-### Reflexion Fabio Bilger
+### 6. Reflexionen
+
+#### Reflexion Fabio Bilger
 Meines Erachtens war die Zeit, die wir für das Projekt bekommen haben wirklich viel zu kurz. Wir wurden ins kalte Wasser geworfen, haben keine Anleitung bekommen, mussten noch alles Mögliche über Github lernen und hatten von Bash auch nicht das Wissen, welches man für das Projekt gebraucht hätte.
 Klar hatten wir von einem Bash-Modul bereits die Basics, jedoch hat dieses Wissen keines Wegs ausgereicht ein solches Skript in der vorgegebenen Zeit geschweige nur in der Unterrichtszeit zu schreiben. 
 Ich finde, man hätte den Auftrag so gestalten können, dass man die Dokumentation nicht auf Github sonder in Word hätte verfassen können und dass das System nur auf einer Instanz hätte laufen müssen. 
 Dass zu dem ansich schon Grossen Auftrag noch die Dokumentation auf Github dazu kam, hat meiner Meinung nach den Rahmen gesprengt und ich finde das ist von Auszubildenden im zweiten Lehrjahr etwas zu viel verlangt.
 Trotzdem muss ich sagen, dass die Zusammenarbeit im Team ansich gut war und ich einiges dazu gelernt habe.
 
-### Reflexion Manuel Santoro
+#### Reflexion Manuel Santoro
 "Irgend einen Text"
 
-### Reflexion Benedikt Anrig
+#### Reflexion Benedikt Anrig
 "Irgend einen Text"
 
 
