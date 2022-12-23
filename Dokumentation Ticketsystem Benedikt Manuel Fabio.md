@@ -19,7 +19,13 @@ Installieren Sie ein Ticketsystem ihrer Wahl (z.B. osTicket, zoho, otrs, etc.). 
 
 <a name="projektziel"></a>
 ### 2. Projektziel
-"Irgend einen Text"
+
+1.	Ein Service soll in der Cloud funktionstüchtig aufgesetzt werden. Dieser Service und die Anforderungen dazu werden im nächsten Unterkapitel Aufgabenstellung 
+   vorgestellt.
+3.	Der Service soll als Infrastructure as Code (IaC) gestaltet sein und einfach in einer Cloud in Betrieb genommen werden können. Die Konfigurationsdateien werden in      einer Versionsverwaltung verwaltet.
+4.	Die Dokumentation findet direkt über Git in Markdown statt (im gleichen Repository wie die Konfigurationsdateien).
+5.	Einzelne Testfälle sollen durchgespielt, mittels Screenshots protokolliert und in der Dokumentation abgelegt werden.
+
 
 <a name="aufgabenverteilung"></a>
 ### 3. Aufgabenverteilung
