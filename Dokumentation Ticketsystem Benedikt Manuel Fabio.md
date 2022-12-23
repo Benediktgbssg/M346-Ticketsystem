@@ -47,6 +47,14 @@ Im Endeffekt haben alle von uns in allen Bereichen in irgend einer Form etwas zu
 ### 4. Ports
 Hier sind alle Ports aufgelistet, welche geöffnet werden müssen, damit beide Instanzen miteinander kommunizieren können:
 
+| Port         | Protokoll      | Funktion                        |
+| :---         | :---           | :---                            |
+| Port 80      | HTTP           | Hypertext Transfer Protocoll    |
+| Port 3306    | TCP            | MySQL database system           |
+| Port 22      | TCP            | Secure Shell (SSH)              |
+| Port 1       | TCP            | TCP Port Service Multiplexer    |
+| Port 443     | HTTPS          | Hypertext Transfer Protocol over SSL/TLS |
+
 <a name="tests"></a>
 ### 5. Tests
 "Irgend einen Text"
