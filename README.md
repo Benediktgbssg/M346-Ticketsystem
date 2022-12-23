@@ -1,9 +1,6 @@
 # M346-Ticketsystem
 Projekt Modul 346 von Fabio, Manuel und Benedikt
 
-
-
-
 Anleitung Skript AllesInstallierenAufEinemServer
 
 1. Das Skript AllesInstallierenAufEinemServer.sh wird ausgeführt, gib das Admin Passwort "Riethuesli>12345" um das Skript zu starten
@@ -17,4 +14,5 @@ FLUSH PRIVILEGES;
 EXIT;
 Drücke nach dem eingeben der Komandos nun mehrmals auf die Enter Taste sodass auch alles augeführt wird
 7. Drücke nochmals die "Y" Taste zur bestätigung der Installation
-8. 
+8. Drücke die Einter Taste für die Installation von Redmine, gib dann zwei mal das PW: xyz888 ein.
+9. Kopier nun diesen inhalt in die geöffnete Datei, vergiss nicht per ctrl+s 
